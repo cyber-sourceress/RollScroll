@@ -1,0 +1,15 @@
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Debug\RollScroll.exe.config
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Debug\RollScroll.exe.manifest
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Debug\RollScroll.application
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Debug\RollScroll.exe
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Debug\RollScroll.pdb
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollTool.Form3.resources
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollScroll.Properties.Resources.resources
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollTool.RollScroll.resources
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollTool.csproj.GenerateResource.cache
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollTool.csproj.CoreCompileInputs.cache
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollScroll.exe.manifest
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollScroll.application
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollScroll.exe
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollScroll.pdb
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Debug\RollTool.csprojAssemblyReference.cache

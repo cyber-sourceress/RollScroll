@@ -1,0 +1,15 @@
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollTool.csprojAssemblyReference.cache
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollTool.Form3.resources
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollTool.csproj.GenerateResource.cache
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollTool.csproj.CoreCompileInputs.cache
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollScroll.Properties.Resources.resources
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Release\RollScroll.exe.config
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Release\RollScroll.exe.manifest
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Release\RollScroll.application
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Release\RollScroll.exe
+C:\Users\Chrys\source\repos\RollTool\RollTool\bin\Release\RollScroll.pdb
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollScroll.exe.manifest
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollScroll.application
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollScroll.exe
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollScroll.pdb
+C:\Users\Chrys\source\repos\RollTool\RollTool\obj\Release\RollTool.RollScroll.resources
